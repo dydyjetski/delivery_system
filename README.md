@@ -1,7 +1,7 @@
 Simple Delivery System
 Play as a delivery driver and make deliveries around the city! Pick up packages, deliver them to the correct locations, and earn money.
 
-Configuration (config file visible in the screenshots)
+Configuration
 
     Language: FR
     NPC Customization: Model
